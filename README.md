@@ -17,6 +17,7 @@
 > * Correlation of pclass and the survival
 > * Is fare ticket indicator for survival? (graph indeed shows that there were more survivals in 1st class)
 6.	Prediction models and accuracy
+> * Prepare data for prediction, convert sex and embarked to numbers
 > * Create and fit a nearest-neighbor classifier - KNN, classifier 2 (~root of number of features, gave better result then 3)
 > * SVC  - 3 different kernels - linear, Poly and RBF
 7. The best prediction score is 0.85 (SVC,RBF kernel)
