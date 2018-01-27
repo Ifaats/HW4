@@ -1,7 +1,7 @@
 
 #  Titanic data analysis to predict whether someone survived or did not survive.
 ## The best prediction score is 0.85 (SVC,RBF kernel)
-1.	Load the data from the csv file - https://github.com/Ifaats/HW4/titanic.csv
+1.	Load the data from the csv file - https://github.com/Ifaats/HW4/blob/master/titanic.csv
 2.	Clean the data:
 > * Drop Na, and verify no Na,verify data size after droping Na
 > * Drop irrelevant features that will not help analyze the data (ticket, cabin, home.dest, body, name, boat)
